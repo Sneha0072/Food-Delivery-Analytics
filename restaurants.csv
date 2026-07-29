@@ -1,0 +1,151 @@
+restaurant_id,restaurant_name,cuisine,city_id,rating,opening_year
+1,Tandoori Flames 1,Fast Food,11,4.0,2009
+2,Royal Kitchen 2,Fast Food,11,4.5,2018
+3,Spice Villa 3,North Indian,1,3.6,2015
+4,South Treat 4,Fast Food,9,4.3,2015
+5,Food Junction 5,Chinese,7,4.2,2024
+6,Biryani House 6,Chinese,1,4.2,2017
+7,Spice Villa 7,North Indian,2,4.7,2012
+8,Chinese Express 8,Chinese,6,4.2,2014
+9,South Treat 9,Italian,6,4.2,2022
+10,Food Junction 10,Chinese,2,4.0,2011
+11,Burger Hub 11,Desserts,6,4.5,2013
+12,Tandoori Flames 12,Mughlai,3,4.3,2018
+13,South Treat 13,Italian,8,3.8,2020
+14,Biryani House 14,South Indian,11,4.5,2020
+15,Burger Hub 15,Fast Food,10,4.8,2022
+16,Royal Kitchen 16,Italian,7,3.5,2014
+17,Tandoori Flames 17,Chinese,13,4.6,2010
+18,Royal Kitchen 18,North Indian,13,4.8,2013
+19,Chinese Express 19,Chinese,4,4.2,2016
+20,Food Junction 20,Mughlai,11,4.0,2020
+21,Royal Kitchen 21,Italian,10,3.7,2019
+22,Food Junction 22,Mughlai,3,4.7,2017
+23,Royal Kitchen 23,Mughlai,2,4.5,2018
+24,Pizza Point 24,South Indian,5,3.7,2019
+25,Biryani House 25,Mughlai,7,4.1,2012
+26,Royal Kitchen 26,Italian,7,3.8,2013
+27,South Treat 27,South Indian,8,3.9,2013
+28,Chinese Express 28,Desserts,8,4.4,2019
+29,Burger Hub 29,Italian,3,3.8,2020
+30,South Treat 30,Mughlai,11,4.2,2023
+31,Spice Villa 31,Fast Food,14,4.2,2013
+32,Pizza Point 32,Mughlai,1,4.7,2015
+33,Punjabi Tadka 33,North Indian,5,3.8,2017
+34,Biryani House 34,Desserts,8,4.3,2023
+35,South Treat 35,Mughlai,2,4.4,2016
+36,South Treat 36,Desserts,6,4.3,2009
+37,Food Junction 37,Mughlai,4,5.0,2011
+38,Tandoori Flames 38,Chinese,14,5.0,2022
+39,Punjabi Tadka 39,Chinese,14,4.7,2022
+40,Pizza Point 40,Desserts,13,3.9,2019
+41,Royal Kitchen 41,Fast Food,7,3.7,2012
+42,Tandoori Flames 42,Desserts,4,4.7,2019
+43,South Treat 43,Chinese,10,4.3,2018
+44,Punjabi Tadka 44,Chinese,10,3.9,2024
+45,Pizza Point 45,South Indian,13,4.7,2009
+46,Punjabi Tadka 46,Desserts,11,3.7,2012
+47,Tandoori Flames 47,South Indian,12,4.0,2015
+48,Spice Villa 48,Italian,3,4.4,2016
+49,Spice Villa 49,Italian,8,3.6,2010
+50,Spice Villa 50,Mughlai,12,3.9,2019
+51,Food Junction 51,Italian,6,4.4,2010
+52,Food Junction 52,Fast Food,11,4.5,2010
+53,South Treat 53,Italian,4,5.0,2014
+54,Food Junction 54,Chinese,6,4.7,2018
+55,South Treat 55,Mughlai,3,4.3,2023
+56,Chinese Express 56,Fast Food,13,3.6,2011
+57,Food Junction 57,North Indian,2,4.9,2013
+58,Food Junction 58,Italian,1,5.0,2021
+59,Tandoori Flames 59,Fast Food,15,3.7,2017
+60,Biryani House 60,Desserts,15,4.8,2010
+61,Chinese Express 61,Chinese,2,4.1,2013
+62,Burger Hub 62,Italian,11,4.0,2015
+63,Spice Villa 63,Fast Food,2,4.6,2008
+64,Tandoori Flames 64,Italian,2,3.7,2015
+65,South Treat 65,Fast Food,8,3.5,2018
+66,Pizza Point 66,Desserts,7,4.5,2023
+67,Pizza Point 67,South Indian,7,3.6,2011
+68,Pizza Point 68,Chinese,6,4.8,2012
+69,Spice Villa 69,Desserts,14,4.6,2012
+70,Biryani House 70,North Indian,9,4.3,2013
+71,Food Junction 71,Chinese,12,3.8,2012
+72,Spice Villa 72,Mughlai,11,4.2,2014
+73,Pizza Point 73,North Indian,3,4.6,2020
+74,Chinese Express 74,Italian,6,4.7,2015
+75,Punjabi Tadka 75,Fast Food,2,3.9,2017
+76,Burger Hub 76,Desserts,14,4.5,2017
+77,Tandoori Flames 77,Mughlai,10,4.3,2020
+78,Punjabi Tadka 78,Fast Food,1,4.7,2015
+79,Food Junction 79,Italian,2,3.9,2010
+80,South Treat 80,North Indian,6,4.9,2012
+81,Spice Villa 81,Desserts,14,4.4,2019
+82,South Treat 82,Fast Food,3,4.6,2010
+83,Burger Hub 83,Mughlai,2,3.5,2014
+84,Burger Hub 84,North Indian,13,4.1,2017
+85,South Treat 85,Desserts,7,4.1,2020
+86,Pizza Point 86,Fast Food,9,4.3,2012
+87,Punjabi Tadka 87,North Indian,5,3.6,2014
+88,Biryani House 88,Mughlai,6,4.1,2010
+89,Punjabi Tadka 89,Fast Food,7,4.6,2015
+90,Burger Hub 90,South Indian,2,4.9,2011
+91,Food Junction 91,Mughlai,10,3.6,2013
+92,Pizza Point 92,North Indian,12,3.7,2008
+93,Biryani House 93,Italian,6,4.3,2016
+94,Biryani House 94,Chinese,3,4.6,2016
+95,Pizza Point 95,Desserts,15,3.5,2021
+96,Punjabi Tadka 96,Mughlai,2,3.9,2010
+97,Food Junction 97,Italian,9,4.0,2023
+98,Royal Kitchen 98,South Indian,6,3.7,2011
+99,Royal Kitchen 99,Fast Food,12,3.7,2024
+100,Burger Hub 100,North Indian,14,4.8,2015
+101,Burger Hub 101,Italian,6,4.1,2012
+102,Biryani House 102,Desserts,1,4.3,2021
+103,Tandoori Flames 103,Chinese,4,4.1,2018
+104,Punjabi Tadka 104,Desserts,2,4.4,2011
+105,South Treat 105,Fast Food,15,3.6,2015
+106,South Treat 106,North Indian,7,3.6,2022
+107,Punjabi Tadka 107,Desserts,14,4.0,2010
+108,South Treat 108,Italian,1,4.1,2017
+109,Royal Kitchen 109,Desserts,5,4.6,2015
+110,Food Junction 110,Chinese,10,5.0,2014
+111,South Treat 111,Desserts,13,3.9,2008
+112,Spice Villa 112,North Indian,4,4.3,2008
+113,Chinese Express 113,North Indian,13,4.5,2017
+114,Pizza Point 114,South Indian,9,5.0,2021
+115,Food Junction 115,North Indian,3,4.6,2010
+116,Burger Hub 116,South Indian,15,4.8,2021
+117,Chinese Express 117,Italian,12,3.6,2011
+118,South Treat 118,South Indian,11,4.7,2010
+119,Royal Kitchen 119,Mughlai,1,4.2,2012
+120,Tandoori Flames 120,Chinese,5,4.8,2020
+121,Chinese Express 121,Chinese,8,3.9,2010
+122,Tandoori Flames 122,South Indian,13,4.7,2011
+123,Biryani House 123,North Indian,3,4.2,2018
+124,Spice Villa 124,North Indian,9,4.0,2014
+125,Food Junction 125,Chinese,8,3.9,2011
+126,Pizza Point 126,South Indian,13,4.5,2009
+127,Tandoori Flames 127,Desserts,14,4.0,2010
+128,Tandoori Flames 128,Chinese,7,4.3,2017
+129,Punjabi Tadka 129,Desserts,3,3.5,2020
+130,Food Junction 130,Mughlai,12,4.3,2011
+131,Food Junction 131,North Indian,13,4.7,2011
+132,Burger Hub 132,North Indian,14,4.7,2015
+133,Biryani House 133,South Indian,14,4.1,2010
+134,Royal Kitchen 134,Mughlai,5,4.9,2010
+135,Burger Hub 135,North Indian,4,4.9,2022
+136,Biryani House 136,North Indian,15,4.8,2018
+137,Pizza Point 137,North Indian,8,3.6,2021
+138,Spice Villa 138,Italian,1,4.1,2021
+139,Biryani House 139,Chinese,4,4.9,2016
+140,Punjabi Tadka 140,Italian,15,3.7,2015
+141,Punjabi Tadka 141,Italian,7,4.8,2023
+142,Burger Hub 142,North Indian,5,4.1,2021
+143,Tandoori Flames 143,Fast Food,15,4.7,2015
+144,South Treat 144,Desserts,1,5.0,2019
+145,Food Junction 145,Mughlai,13,4.2,2024
+146,Chinese Express 146,Italian,5,3.8,2018
+147,Royal Kitchen 147,South Indian,1,4.8,2016
+148,Burger Hub 148,Desserts,8,4.3,2015
+149,Biryani House 149,North Indian,4,4.5,2016
+150,South Treat 150,Desserts,13,4.9,2009
